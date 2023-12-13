@@ -29,10 +29,12 @@ label.form-label{
 form.row{
     margin-top: 0.5px;
 }
-div.decision_form{
+div#decision_form{
     display: flex;
     justify-content: flex-end;
+    background-color: rgb(239, 242, 235);
 }
 #cancel{
     margin-right: 10px;
+    
 }
